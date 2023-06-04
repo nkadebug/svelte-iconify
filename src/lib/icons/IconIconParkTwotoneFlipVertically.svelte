@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><mask id="ipTFlipVertically0"><g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="4"><path stroke-linecap="round" d="M42 24H6"/><path fill="#555" d="m14 4l22 12H14V4Zm0 40V32h22L14 44Z"/></g></mask><path fill="currentColor" d="M0 0h48v48H0z" mask="url(#ipTFlipVertically0)"/></svg>

@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><mask id="ipTInductionLock0"><g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"><path fill="#555" d="M9 18v24h30V18L24 6L9 18Z"/><path d="M24 22v12m7-8v4m-14-4v4"/></g></mask><path fill="currentColor" d="M0 0h48v48H0z" mask="url(#ipTInductionLock0)"/></svg>

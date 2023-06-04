@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><mask id="ipSQuadrilateral0"><path fill="#fff" stroke="#fff" stroke-width="4" d="M28.038 8H7a3 3 0 0 0-3 3v26a3 3 0 0 0 3 3h32.413c2.163 0 3.616-2.22 2.748-4.203l-11.375-26A3 3 0 0 0 28.038 8Z"/></mask><path fill="currentColor" d="M0 0h48v48H0z" mask="url(#ipSQuadrilateral0)"/></svg>

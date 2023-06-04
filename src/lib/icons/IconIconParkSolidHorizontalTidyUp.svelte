@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><mask id="ipSHorizontalTidyUp0"><path fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M7 8h6v32H7zm14 0h6v32h-6zm14 0h6v32h-6z"/></mask><path fill="currentColor" d="M0 0h48v48H0z" mask="url(#ipSHorizontalTidyUp0)"/></svg>

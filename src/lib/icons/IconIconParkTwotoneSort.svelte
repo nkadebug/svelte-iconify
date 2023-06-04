@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><mask id="ipTSort0"><path fill="#555" stroke="#fff" stroke-linejoin="round" stroke-width="4" d="m24 42l-9-13h18l-9 13Zm0-36l-9 13h18L24 6Z"/></mask><path fill="currentColor" d="M0 0h48v48H0z" mask="url(#ipTSort0)"/></svg>

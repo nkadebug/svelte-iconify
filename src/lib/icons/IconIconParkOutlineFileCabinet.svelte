@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="4"><path stroke-linejoin="round" d="M42 4H6v10h36V4Zm0 15H6v10h36V19Zm0 15H6v10h36V34Z"/><path stroke-linecap="round" d="M21 9h6m-6 15h6m-6 15h6"/></g></svg>

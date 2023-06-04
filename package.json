@@ -46,5 +46,8 @@
 	},
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@iconify/json": "^2.2.73"
+	}
 }

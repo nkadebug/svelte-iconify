@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M16.355 9.5H33.03M16.75 24h11.425M18.53 9.5l-3.56 29m25.53-33h-33a2.25 2.25 0 0 0-2 2v33a2.25 2.25 0 0 0 2 2h33a2.25 2.25 0 0 0 2-2v-33a2.25 2.25 0 0 0-2-2Z"/></svg>

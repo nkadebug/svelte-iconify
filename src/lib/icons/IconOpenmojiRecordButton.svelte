@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="36" cy="36" r="20" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/><circle cx="36" cy="36" r="7"/><circle cx="36" cy="36" r="7" fill="#D22F27"/></svg>

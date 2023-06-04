@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g id="evaToggleLeftFill0"><g id="evaToggleLeftFill1"><g id="evaToggleLeftFill2" fill="currentColor"><path d="M15 5H9a7 7 0 0 0 0 14h6a7 7 0 0 0 0-14ZM9 15a3 3 0 1 1 3-3a3 3 0 0 1-3 3Z"/><path d="M9 11a1 1 0 1 0 0 2a1 1 0 0 0 0-2Z"/></g></g></g></svg>

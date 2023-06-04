@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><mask id="ipSMitsubishi0"><path fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="4" d="m17 19l7 11l7-11l-7-11l-7 11Zm13.667 21L24 30h13.333L44 40H30.667Zm-13.334 0L24 30H10.667L4 40h13.333Z"/></mask><path fill="currentColor" d="M0 0h48v48H0z" mask="url(#ipSMitsubishi0)"/></svg>

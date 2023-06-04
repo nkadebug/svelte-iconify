@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><mask id="circleFlagsIt230"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#circleFlagsIt230)"><path fill="#333" d="M0 0h256l64 256l-64 256H0Z"/><path fill="#d80027" d="M256 0h256v512H256Z"/></g></svg>

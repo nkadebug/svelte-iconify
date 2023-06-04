@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><mask id="ipSWeixinCardsOffers0"><g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"><path fill="#fff" d="m6 12l36 4v24L6 36V12Z"/><path d="M38 15.555V8L6 12"/></g></mask><path fill="currentColor" d="M0 0h48v48H0z" mask="url(#ipSWeixinCardsOffers0)"/></svg>

@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><rect width="5" height="5" x=".5" y=".5" rx=".5"/><rect width="5" height="5" x="8.5" y=".5" rx=".5"/><rect width="5" height="5" x=".5" y="8.5" rx=".5"/><rect width="5" height="5" x="8.5" y="8.5" rx=".5"/></g></svg>

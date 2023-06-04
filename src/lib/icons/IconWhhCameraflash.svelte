@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="m640 768l-352 256l-160-256h149l64-192H0L192 0h192L235 448h341L469 768h171z"/></svg>

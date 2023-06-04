@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><mask id="ipSSailboatOne0"><g fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="4"><path fill="#fff" d="M21 31V5L7 31h14Zm6 0V13l14 18H27Z"/><path d="M5 37h38l-5 6H10l-5-6Z"/></g></mask><path fill="currentColor" d="M0 0h48v48H0z" mask="url(#ipSSailboatOne0)"/></svg>

@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g id="feDropRight0" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="feDropRight1" fill="currentColor"><path id="feDropRight2" d="M8 5v14l8-7z"/></g></g></svg>
